@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 git hub 1st prog
+=======
+
+welcome to my space
+>>>>>>> branch1
 
